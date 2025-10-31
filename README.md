@@ -1,10 +1,3 @@
----
-
-## 2. README.md para o Frontend (`caderno-caixa-frontend`)
-
-Este README foca na interface do usuário (UI/UX), nos frameworks de frontend e nas instruções para rodar o ambiente de desenvolvimento.
-
-```markdown
 # 💻 Caderno Caixa - Frontend
 
 O `caderno-caixa-frontend` é a interface de usuário do projeto **Caderno Caixa**. Ele oferece a experiência de **PDV (Ponto de Venda)** e **ERP (Gestão)**, sendo desenvolvido com foco em **simplicidade, flexibilidade e acessibilidade** para microempreendedores (MEI).
@@ -55,7 +48,7 @@ Este projeto requer o backend rodando para funcionar corretamente. Certifique-se
 
 3.  **Configure o Backend API:**
 
-    - Verifique o arquivo de configuração (ou `.env` se houver) e ajuste a variável `VUE_APP_API_URL` (ou similar) para o endereço do seu backend (ex: `http://localhost:3000`).
+    - Verifique o arquivo de configuração .env e ajuste a variável `VUE_APP_API_URL` (ou similar) para o endereço do seu backend (ex: `http://localhost:3000`).
 
 4.  **Execute o Aplicativo:**
     ```bash
