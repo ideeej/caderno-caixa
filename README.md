@@ -1,3 +1,5 @@
+# ! EM DESENVOLVIMENTO !  
+
 # 💻 Caderno Caixa - Frontend
 
 O `caderno-caixa-frontend` é a interface de usuário do projeto **Caderno Caixa**. Ele oferece a experiência de **PDV (Ponto de Venda)** e **ERP (Gestão)**, sendo desenvolvido com foco em **simplicidade, flexibilidade e acessibilidade** para microempreendedores (MEI).
